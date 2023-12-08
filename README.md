@@ -10,7 +10,8 @@
 >
 > **Java version 17**
 
-> ### **Schema of Student Management System **
+
+> ### Schema of Student Management System 
 
 ![schema of semester](https://github.com/MarinaBeder/semester./assets/66501215/abb36666-938b-4abf-8c69-0f4000e1e8ae)
 
