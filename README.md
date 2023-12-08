@@ -38,7 +38,7 @@
 
 - ##### To use swagger you can use this link 
 
-  #### [http://localhost:9090/swagger-ui/index.html#/](http://localhost:6060/swagger-ui/index.html#/ ) 
+  #### [http://localhost:9090/swagger-ui/index.html#/](http://localhost:9090/swagger-ui/index.html#/ ) 
 
   
 
