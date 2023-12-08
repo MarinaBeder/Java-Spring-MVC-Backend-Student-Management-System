@@ -32,7 +32,6 @@
   
 - ##### `Note` I make validation on requests 
 
-- 
 
 ### In this project I integrate Swagger for API documentation.
 
