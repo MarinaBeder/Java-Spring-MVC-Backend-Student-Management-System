@@ -1,0 +1,12 @@
+id,message,message_number
+1,"course is added",1
+2,"course is deleted",2
+3,"we add all these student to course",3
+4,"we add these teachers into course",4
+5,"quiz is added",5
+6,"we add all these student to this quiz",6
+7,"student is added",7
+8,"student is deleted",8
+9,"teacher is added",9
+10,"teacher is deleted",10
+11,"we add these student into this teacher",11
